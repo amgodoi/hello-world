@@ -1,4 +1,6 @@
 /**
+ * @file foo-bar.c
+ * @brief 
  */
 
 #ifdef HAVE_CONFIG_H
@@ -6,11 +8,4 @@
 #endif
 
 #include <assert.h>
-
-void bar(void) {
-    /**/
-    //
-    //
-    return;
-}
 
