@@ -7,7 +7,7 @@
 
 #include <assert.h>
 
-void bar(void) {
-    return;
+int bar(void) {
+    return 0;
 }
 
