@@ -9,6 +9,7 @@
 
 void bar(void) {
     /**/
+    /**/
     return;
 }
 
