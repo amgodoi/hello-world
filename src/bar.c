@@ -8,6 +8,7 @@
 #include <assert.h>
 
 void bar(void) {
+    /**/
     return;
 }
 
